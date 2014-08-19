@@ -1,4 +1,3 @@
 simple-git-project
 ==================
-
-classroom project
+## this is only a classroom project
